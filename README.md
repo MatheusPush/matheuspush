@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Moringa (a ML project to get better results in trading)**
 
-- 🌱 I’m currently learning **RecSys and Deep Learning**
+- 🌱 I’m currently learning **all about AI agents**
 
-- 💬 Ask me about **python, data science and ML**
+- 💬 Ask me about **python, machine learning and AI agents**
 
 - 📫 How to reach me **matheus.fernandes@protonmail.com**
 
