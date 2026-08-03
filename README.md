@@ -1,21 +1,51 @@
-<h1 align="center">Hi 👋, I'm Matheus Duarte</h1>
-<h3 align="center">A passionate Data Scientist from Brazil</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheuspush" alt="matheuspush" /> </p>
-
-- 🔭 I’m currently working on **Moringa (a ML project to get better results in trading)**
-
-- 🌱 I’m currently learning **all about AI agents**
-
-- 💬 Ask me about **python, machine learning and AI agents**
-
-- 📫 How to reach me **matheus.fernandes@protonmail.com**
-
-<p align="left"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspush&layout=compact&hide=html" alt="matheuspush" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheuspush&show_icons=true" alt="matheuspush" /></p>
+<h1 align="center">Hi 👋, I'm Matheus "Push" Duarte</h1>
+<h3 align="center">AI Engineer building agents, LLM/ML products and recommender systems</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/matheus-fernandes-duarte-b2240b114" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="matheus-fernandes-duarte-b2240b114" height="30" width="30" /></a>
-<a href="https://kaggle.com/matheuspush" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="matheuspush" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/matheus-fernandes-duarte-b2240b114" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/matheuspush" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="mailto:matheus.fernandes@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=matheuspush&style=for-the-badge&color=blue" alt="profile views" />
+</p>
+
+---
+
+### About me
+
+AI Engineer with ~7 years working with AI and ML solutions, from research and prototyping to running things in production. Most of my work lives around AI agents, LLM applications and recommender systems, with a lot of Python in between.
+
+- 🤖 Working with **AI agents, LLM pipelines and evaluation**
+- 🧠 Currently digging into **agent orchestration, evals and context engineering**
+- 💬 Ask me about **Python, machine learning, RecSys and AI agents**
+- 🌊 Based in **Santos, Brazil (UTC-3)**
+- 📫 Reach me at **matheus.duarte.data@gmail.com**
+
+---
+
+### Tech stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+</p>
+
+---
+
+### GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheuspush&show_icons=true&hide_border=true&theme=default" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspush&layout=compact&hide=html&hide_border=true&theme=default" alt="top languages" />
 </p>
