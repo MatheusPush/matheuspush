@@ -8,8 +8,8 @@
   <a href="https://kaggle.com/matheuspush" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="mailto:matheus.fernandes@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  <a href="mailto:matheus.duarte.data@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=matheuspush&style=for-the-badge&color=blue" alt="profile views" />
 </p>
@@ -39,13 +39,4 @@ AI Engineer with ~7 years working with AI and ML solutions, from research and pr
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-</p>
-
----
-
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheuspush&show_icons=true&hide_border=true&theme=default" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspush&layout=compact&hide=html&hide_border=true&theme=default" alt="top languages" />
 </p>
