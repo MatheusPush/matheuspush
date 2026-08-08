@@ -28,6 +28,12 @@ AI Engineer with ~7 years working with AI and ML solutions, from research and pr
 
 ---
 
+### Earlier work
+
+From 2023 to 2026 I contributed from [@cnx-matheusfernandes](https://github.com/cnx-matheusfernandes), my work account at Conexa Saúde. Those repositories are private, so only the contribution counts are public. GitHub has no way to merge accounts, so that part of the history stays on the old profile.
+
+---
+
 ### Tech stack
 
 <p align="left">
